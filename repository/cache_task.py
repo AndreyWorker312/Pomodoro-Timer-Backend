@@ -1,7 +1,6 @@
 import json
 from redis import Redis
 
-from database import Tasks
 from schema.task import TaskSchema
 
 
